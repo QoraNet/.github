@@ -312,20 +312,6 @@ pie title QOR Token Distribution
 - [ ] Enterprise partnerships
 - [ ] Mobile wallet release
 
-## 👥 Team & Advisors
-
-### Core Team
-- **Sarah Chen** - CTO & Co-Founder (MIT PhD, Former Protocol Labs)
-- **Michael Rodriguez** - Infrastructure (Former Coinbase Senior Engineer)
-- **Dr. Emma Thompson** - Privacy & Security (MIT Cryptography PhD)
-- **Jake Kim** - Product Strategy (Former Uniswap Product Manager)
-- **Luna Santos** - DevOps (Former Chainlink Infrastructure)
-- **Alex Park** - Community (Former Compound Community Lead)
-
-### Advisory Board
-- **Technical Advisory**: Industry experts in consensus algorithms
-- **Business Advisory**: Former executives from major exchanges
-- **Academic Advisory**: Researchers from MIT, Stanford, UC Berkeley
 
 ## 💰 Investment & Funding
 
@@ -333,9 +319,9 @@ pie title QOR Token Distribution
 **Valuation**: $100M pre-money ($125M post-money)
 
 #### Use of Funds
-- **40% Engineering**: World-class blockchain talent
-- **25% Infrastructure**: Global validator network
-- **20% Business Development**: Enterprise partnerships
+- **70% Liquidity**: Liquidity Across the different blockchains
+- **5% Infrastructure**: Global validator network
+- **10% Business Development**: Enterprise partnerships
 - **10% Marketing**: Developer adoption
 - **5% Operations**: Legal & compliance
 
