@@ -217,11 +217,13 @@ graph TB
 ### Token Distribution
 ```mermaid
 pie title QOR Token Distribution
-    "Community & Ecosystem" : 40
-    "Team & Advisors" : 20
-    "Investors" : 25
-    "Foundation Reserve" : 10
-    "Liquidity Mining" : 5
+    "Block rewards" : 50
+    "Team" : 15
+    "Development" : 10
+    "Early investors" : 10
+    "Public launch" : 5
+    "DEX liquidity" : 5
+    "DAO treasury" : 5
 ```
 
 ### Staking Requirements
