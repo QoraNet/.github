@@ -231,6 +231,12 @@ pie title QOR Token Distribution
 - **P2P Operators**: 10 QOR minimum stake
 - **AI Trainers**: Dynamic based on compute contribution
 
+### Token Utility
+- **Network Security**: 50% distributed as block rewards to validators and operators
+- **Development Funding**: 10% allocated for continuous protocol development
+- **Governance**: DAO treasury (5%) enables community-driven decisions
+- **Liquidity**: 5% ensures healthy trading markets across DEX platforms
+
 ### Reward Distribution
 - **39%** to Validators (network security)
 - **60%** to P2P Operators (network maintenance)
@@ -290,29 +296,41 @@ pie title QOR Token Distribution
 
 ## 🎯 Development Roadmap
 
-### Phase 1: Foundation (Q1 2025) ✅
+### Phase 1: Foundation Development (Q1 2025) ✅
 - [x] Core blockchain implementation
 - [x] Basic sharding functionality
 - [x] QRC-20P token standard
-- [x] Initial P2P network
+- [x] Initial P2P network architecture
 
-### Phase 2: AI Integration (Q2 2025)
-- [ ] AI training marketplace launch
-- [ ] Model registry deployment
+### Phase 2: AI Integration Build (Q2 2025)
+- [ ] AI training marketplace development
+- [ ] Model registry implementation
 - [ ] Federated learning protocols
-- [ ] GPU discovery network
+- [ ] GPU discovery network protocols
 
-### Phase 3: Enterprise Ready (Q3 2025)
-- [ ] Cross-chain bridge deployment
-- [ ] Enterprise SDK release
-- [ ] Developer tools & documentation
-- [ ] Mainnet beta launch
+### Phase 3: Enterprise Preparation (Q3 2025)
+- [ ] Cross-chain bridge development
+- [ ] Enterprise SDK and developer tools
+- [ ] Comprehensive documentation
+- [ ] Internal testing and optimization
 
-### Phase 4: Scale & Optimize (Q4 2025)
-- [ ] Full mainnet deployment
-- [ ] 1M+ daily active users
-- [ ] Enterprise partnerships
-- [ ] Mobile wallet release
+### Phase 4: Launch Preparation (Q4 2025)
+- [ ] **Testnet Public Launch** - Community testing phase
+- [ ] **VC Funding Rounds** - Series A fundraising ($25M target)
+- [ ] Security audits and final optimizations
+- [ ] Community building and validator recruitment
+
+### Phase 5: Mainnet Deployment (Q1 2026)
+- [ ] **Mainnet Launch** - Full network activation
+- [ ] Enterprise partnership integrations
+- [ ] Mobile wallet and DApp ecosystem
+- [ ] 1M+ user target within 6 months
+
+### Phase 6: Global Scale (2026+)
+- [ ] 10M+ daily active users
+- [ ] Integration with traditional finance
+- [ ] Government and enterprise adoption
+- [ ] AI model marketplace with 1M+ models
 
 
 ## 💰 Investment & Funding
