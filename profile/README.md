@@ -323,16 +323,15 @@ pie title QOR Token Distribution
 
 ### Enhanced Staking Requirements
 - **Validators**: 10,000 QOR minimum stake + DA verification capability
-- **DA Samplers**: 100 QOR minimum stake for sampling rewards
 - **P2P Operators**: 10 QOR minimum stake
 - **AI Trainers**: Dynamic based on compute contribution
 
 ### Enhanced Token Utility
-- **Network Security**: 40% distributed as block rewards to validators
-- **DA Security**: 15% distributed to DA verification participants
-- **Development Funding**: 10% allocated for continuous protocol development
+- **Network Security**: 55% distributed as block rewards to validators and P2P operators
+- **Development Funding**: 10% allocated for continuous protocol development  
 - **Governance**: DAO treasury (5%) enables community-driven decisions
 - **Liquidity**: 5% ensures healthy trading markets across DEX platforms
+- **Fee Burns**: 25% of all transaction fees permanently burned (deflationary)
 
 ### Enhanced Reward Distribution
 - **60%** to P2P Operators (network maintenance + data storage)
@@ -584,6 +583,7 @@ print(f"DA confidence: {result.da_confidence}")
 - **Twitter**: [@Qora_Net](https://twitter.com/Qora_Net)
 - **Reddit**: [reddit.com/r/QoraNet](https://www.reddit.com/r/QoraNet/)
 - **GitHub**: [github.com/QoraNet](https://github.com/QoraNet)
+
 
 ## 📞 Contact
 
