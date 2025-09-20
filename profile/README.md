@@ -365,7 +365,7 @@ pie title QOR Token Distribution
 
 #### DA-Enhanced Database Architecture
 **Before**: 4 separate databases without DA optimization
-**After**: 1 unified RocksDB with 25 optimized column families (5 new for DA)
+**After**: 1 unified redb with 25 optimized column families (5 new for DA)
 **Result**: 60% reduction in storage I/O + efficient DA chunk storage
 
 #### DA-Parallel Validation
@@ -583,7 +583,6 @@ print(f"DA confidence: {result.da_confidence}")
 - **Twitter**: [@Qora_Net](https://twitter.com/Qora_Net)
 - **Reddit**: [reddit.com/r/QoraNet](https://www.reddit.com/r/QoraNet/)
 - **GitHub**: [github.com/QoraNet](https://github.com/QoraNet)
-
 
 ## 📞 Contact
 
