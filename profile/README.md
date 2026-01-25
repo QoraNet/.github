@@ -101,8 +101,8 @@ Passwordless blockchain auth for companies - like Magic Link but 5x cheaper:
 | **QoraAuth** | ✅ Complete | Passwordless login, multi-wallet 2FA |
 | **Security Audit** | ✅ Complete | 27 issues identified and fixed |
 | **Docker Deploy** | ✅ Complete | Multi-node cluster ready |
-| **Public Testnet** | 🔄 In Progress | Launching Q1 2025 |
-| **Mainnet** | 📅 Planned | Q2 2025 |
+| **Public Testnet** | 🔄 In Progress | Launching Q2 2026 |
+| **Mainnet** | 📅 Planned | Q4 2026 |
 
 ### Codebase Statistics
 
@@ -690,25 +690,25 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 
 ## 11. Roadmap
 
-### 2025 Q1: Public Testnet
+### 2026 Q2: Public Testnet
 - [ ] Launch incentivized testnet
 - [ ] Bug bounty program
 - [ ] Developer documentation
 - [ ] SDK release
 
-### 2025 Q2: Mainnet Launch
+### 2026 Q4: Mainnet Launch
 - [ ] Genesis block
 - [ ] Initial validator set
 - [ ] Bridge to Ethereum
 - [ ] DEX launch
 
-### 2025 Q3: Ecosystem Growth
+### 2021 Q1: Ecosystem Growth
 - [ ] Grant program
 - [ ] Hackathons
 - [ ] Mobile wallet
 - [ ] Chat app release
 
-### 2025 Q4: Enterprise Features
+### 2027 Q2: Enterprise Features
 - [ ] Company authentication
 - [ ] Compliance tools
 - [ ] Institutional custody
@@ -725,7 +725,7 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 ## 13. Contact
 
 - **Website**: [Coming Soon]
-- **GitHub**: github.com/qora-protocol/qora-chain
+- **GitHub**: github.com/qora-protocol
 - **Twitter**: [Coming Soon]
 - **Discord**: [Coming Soon]
 
@@ -790,5 +790,4 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 
 ---
 
-*Document generated for Y Combinator application*
-*Last updated: January 2025*
+*Last updated: January 2026*
