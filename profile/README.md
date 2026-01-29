@@ -11,7 +11,7 @@
 
 ---
 
-## 1. What is your company going to make?
+## 1. What is Qora going to make?
 
 ### The Product
 
@@ -29,7 +29,7 @@ QORA is a complete financial and social operating system built on a revolutionar
 | Avalanche | 2 sec | 2 sec | **20x faster** |
 | **QORA** | **50-100ms** | **Instant** | - |
 
-**How we achieve this:**
+**How Qora will achieve this:**
 - **DAG Consensus**: Parallel block creation instead of sequential
 - **VRF/VDF Lottery**: Cryptographic proposer selection (no round timeouts)
 - **Proposal-First Model**: Voting happens during block creation, not after
@@ -99,6 +99,8 @@ Passwordless blockchain auth for companies - like Magic Link but 5x cheaper:
 | **Video/Voice** | ✅ Complete | LiveKit integration |
 | **AI System** | ✅ Complete | Validator coordination, billing |
 | **QoraAuth** | ✅ Complete | Passwordless login, multi-wallet 2FA |
+| **QoraID** | ✅ Complete | @qor or companies can create @.. |
+| **QoraKYC** | ✅ Complete | Onchain KYC infrastructure|
 | **Security Audit** | ✅ Complete | 27 issues identified and fixed |
 | **Docker Deploy** | ✅ Complete | Multi-node cluster ready |
 | **Public Testnet** | 🔄 In Progress | Launching Q2 2026 |
