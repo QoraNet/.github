@@ -4,9 +4,9 @@
 
 **QORA is the world's fastest Layer-1 blockchain with mandatory privacy and native social infrastructure.**
 
-- **50-100ms finality** (10-50x faster than any EVM chain)
+- **400ms finality** (10-50x faster than any EVM chain)
 - **Mandatory ZK-SNARK privacy** for all tokens
-- **Native encrypted chat, video, voice, and AI**
+- **Native encrypted Chat (video, voice), Auth (user, company), KYC (user, company), ID (@qor), Oracle (crypto , commodities, forx with signals) and AI with decentralized agent**
 - **Full EVM compatibility** with 34 custom modules
 
 ---
