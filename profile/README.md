@@ -27,7 +27,7 @@ QORA is a complete financial and social operating system built on a revolutionar
 | Solana | 400ms | 400ms | **4-8x faster** |
 | Polygon | 2 sec | 30 min | **360x faster** |
 | Avalanche | 2 sec | 2 sec | **20x faster** |
-| **QORA** | **50-100ms** | **Instant** | - |
+| **QORA** | **400ms** | **Instant** | - |
 
 **How Qora will achieve this:**
 - **DAG Consensus**: Parallel block creation instead of sequential
